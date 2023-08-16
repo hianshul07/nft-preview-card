@@ -23,10 +23,13 @@ function App() {
 					<img src={imageView} alt='' className='hover-image' />
 					<div className='overlay'></div>
 				</div>
-				<h1 className='heading' style={{ fontSize: '1.2rem', fontWeight: '700' }}>
+				<h1
+					className='heading'
+					style={{ fontSize: '1.2rem', fontWeight: '700' }}
+				>
 					Equilibrium #3429
 				</h1>
-				<p style={{ fontSize: '16px', fontWeight: '200' }}>
+				<p style={{ fontSize: '16px', fontWeight: '200', color: '#a0b6d6' }}>
 					Our Equilibrium collection promotes balance and calm.
 				</p>
 				<div
@@ -60,7 +63,7 @@ function App() {
 							style={{ height: '16px', display: 'block' }}
 						/>
 
-						<span>3 days left</span>
+						<span style={{ color: '#a0b6d6' }}>3 days left</span>
 					</div>
 				</div>
 				<div className='line'></div>

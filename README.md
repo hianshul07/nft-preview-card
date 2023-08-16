@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -10,7 +10,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
-
 
 ## Overview
 
@@ -23,13 +22,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img src="./screenshots/default-state-desktop.png" alt="default-state-desktop" />
+<img src="./screenshots/dafault-state-mobile.png" alt="dafault-state-mobile" />
+<img src="./screenshots/hover-on-image.png" alt="hover-on-image" />
+<img src="./screenshots/hover-on-heading.png" alt="hover-on-heading" />
+<img src="./screenshots/hover-on-name.png" alt="hover-on-name" />
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 
 ### Built with
 
@@ -40,9 +42,9 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
-
 ## Author
 
 - Website - [Github](https://github.com/hianshul07)
 - Frontend Mentor - [@hianshul07](https://www.frontendmentor.io/profile/hianshul07)
 - Twitter - [@hianshul07](https://www.twitter.com/hianshul07)
+
